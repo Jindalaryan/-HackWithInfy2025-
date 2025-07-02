@@ -1,4 +1,5 @@
- import java.util.*;
+// greedy approach
+import java.util.*;
  class Item {
     int value, weight;
     Item(int v, int w) {
