@@ -1,3 +1,4 @@
+// greedy approach
 import java.util.*;
 public class MinRefuelingStops {
     public static void main(String[] args) {
